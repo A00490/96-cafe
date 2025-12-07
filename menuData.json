@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Iced Americano",
+    "description": "Bold espresso shots topped with cold water and ice. A simple classic.",
+    "price": 1.50,
+    "category": "Coffee",
+    "image": "/images/americano.jpg",
+    "isAvailable": true
+  },
+  {
+    "name": "Caramel Macchiato",
+    "description": "Vanilla syrup, steamed milk, espresso, and caramel drizzle.",
+    "price": 2.80,
+    "category": "Coffee",
+    "image": "/images/macchiato.jpg",
+    "isAvailable": true
+  },
+  {
+    "name": "Iced Spanish Latte",
+    "description": "A sweet yet refreshing iced latte.",
+    "price": 1.20,
+    "category": "Tea",
+    "image": "/images/icedspanish.jpg",
+    "isAvailable": true
+  },
+  {
+    "name": "Chocolate Croissant",
+    "description": "Flaky, buttery pastry filled with rich dark chocolate.",
+    "price": 1.80,
+    "category": "Pastries",
+    "image": "/images/croissant.png",
+    "isAvailable": true
+  },
+  {
+    "name": "Tuna Melt Sandwich",
+    "description": "Creamy tuna salad with melted cheddar cheese on toasted sourdough.",
+    "price": 3.50,
+    "category": "Sandwiches",
+    "image": "/images/tunamelt.jpg",
+    "isAvailable": true
+  }
+]

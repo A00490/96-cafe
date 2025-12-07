@@ -1,0 +1,35 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   App.tsx
+#	new file:   README.md
+#	new file:   components/Sidebar.tsx
+#	new file:   constants.ts
+#	new file:   controller/menuController.js
+#	new file:   index.html
+#	new file:   index.tsx
+#	new file:   metadata.json
+#	new file:   models/menuitem.js
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   pages/CustomerDashboard.tsx
+#	new file:   pages/CustomerMenu.tsx
+#	new file:   pages/CustomerReservations.tsx
+#	new file:   pages/Login.tsx
+#	new file:   pages/StaffDashboard.tsx
+#	new file:   pages/StaffOrders.tsx
+#	new file:   pages/StaffTables.tsx
+#	new file:   routes/menuRoutes.js
+#	new file:   server.js
+#	new file:   services/geminiService.ts
+#	new file:   tsconfig.json
+#	new file:   types.ts
+#	new file:   vite.config.ts
+#
